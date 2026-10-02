@@ -1,0 +1,7 @@
+{
+  "name": "waitlist-vip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lista de espera digital con panel de administración y pantalla TV.",
+  "scripts": { "start": "node server.js" }
+}
